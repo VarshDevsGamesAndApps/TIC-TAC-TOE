@@ -1,0 +1,1 @@
+X=MsgBox("This Is A Tic Tac Toe Game, Standard Rules Apply. Enjoy!",4+64,"README")
